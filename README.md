@@ -44,7 +44,10 @@
 <br />
 
 ---
-
+<a href="https://dev.to/supermann" target="_blank">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Super Mann's DEV Community Profile" height="50" width="50">
+</a>
+       
 <!---
 surajmt8848/surajmt8848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
