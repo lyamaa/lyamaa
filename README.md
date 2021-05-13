@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @suraj
-- 👀 I’m interested in *****...
-- 🌱 I’m currently learning ******...
-- 💞️ I’m looking to collaborate on  anyone...
-- 📫 How to reach me ...
+# Hello there 👋
+
+![](https://res.cloudinary.com/dazyxzm1e/image/upload/v1620904884/hardest-programming-language_osd7da.png)
+
+:books: Learn it :books: .... :moneybag: Earn it :moneybag:....
+
+
+
+* 🧐   Interested in full stack. Recent focus on backend.
+* 🌱   Currently learning Golang.
+
 
 <br />
 
