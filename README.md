@@ -27,9 +27,13 @@
 <img align="left" alt="redis" src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <img align="left" alt="mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="postgresl"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+<br />
+
+
+---
 <img align="left" alt="docker"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-
-
 
 <br />
 
