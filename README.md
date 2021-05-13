@@ -42,8 +42,10 @@
 <img align="left" alt="docker"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 
 <br />
-My Blog
+
+
 ---
+### My Blog
 <a href="https://dev.to/supermann" target="_blank" rel="noopener noreferrer">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Super Mann's DEV Community Profile" height="50" width="50">
 </a>
