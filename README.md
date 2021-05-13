@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://res.cloudinary.com/dazyxzm1e/image/upload/v1620904884/hardest-programming-language_osd7da.png)
+![](https://res.cloudinary.com/dazyxzm1e/image/upload/v1620905997/undraw_page_not_found_su7k_nlggzx.svg)
 
 :books: Learn it :books: .... :moneybag: Earn it :moneybag:....
 
