@@ -1,4 +1,5 @@
-# Hello there 👋
+  # Hello there!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50px" height="50px">
+  
 
 <img src="https://res.cloudinary.com/dazyxzm1e/image/upload/v1620905997/undraw_page_not_found_su7k_nlggzx.svg" alt="drawing" width="1200" height="200"/>
 
@@ -43,8 +44,12 @@
 
 :books: Learn it :books: .... :moneybag: Earn it :moneybag:....
 <br />
-<br />
+<hr />
 
+## :book: Blog
+
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo&logo=dev.to&logoColor=white" width="20%" height="20%"/>](https://dev.to/lymaa) &nbsp;
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo&logo=hashnode&logoColor=white" width="20%" height="20%"/>](https://hashnode.com/@Lymaa) 
 
        
 <!---
