@@ -49,7 +49,7 @@
 ## :book: Blog
 
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo&logo=dev.to&logoColor=white" width="20%" height="20%"/>](https://dev.to/lymaa) &nbsp;
-[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo&logo=hashnode&logoColor=white" width="20%" height="20%"/>](https://hashnode.com/@Lymaa) 
+
 
        
 <!---
