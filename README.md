@@ -42,11 +42,6 @@
 <br />
 <hr />
 
-## :book: Blog
-
-[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo&logo=dev.to&logoColor=white" width="20%" height="20%"/>](https://dev.to/lymaa) &nbsp;
-
-
        
 <!---
 surajmt8848/surajmt8848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
