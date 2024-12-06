@@ -5,8 +5,9 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Well, Nothing much fancy just a simple guy.
-- Loves to keeps things simpler
+- I’m your sarcastic, overworked, and underpaid  software engineer (who doesn’t even get coffee breaks).  who magically solves problems at 3 AM but constantly wonders why half your bugs exist in the first place.
+
+- What’s your next disaster? Let’s "fix" it together.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyamaa&label=Profile%20views&color=0e75b6&style=flat" alt="lyamaa" /> </p>
